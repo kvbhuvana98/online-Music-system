@@ -1,0 +1,24 @@
+﻿@model WebApplication1.Models.ViewMusic
+
+@{
+    ViewBag.Title = "Delete Music";
+}
+
+<h2>Are you sure you want to delete this music?</h2>
+
+<div>
+    <h4>@Model.Title</h4>
+    <p>Artist: @Model.Artist</p>
+    <p>Category: @Model.MusicCategory?.Name</p>
+    <p>
+        <a href="@Model.MusicUrl" target="_blank">Preview Link</a>
+    </p>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.ViewMusicId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    @Html.ActionLink("Cancel", "Index", "ViewMusic", null, new { @class = "btn btn-secondary" })
+}

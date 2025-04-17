@@ -1,0 +1,32 @@
+﻿@model IEnumerable<WebApplication1.Models.MusicItem>
+
+@{
+    ViewBag.Title = "Vote for Songs";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Vote for Your Favorite Songs</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="@item.ImagePath" class="card-img-top" style="height:200px; object-fit:cover;" />
+                <div class="card-body">
+                    <h5>@item.Title</h5>
+                    @using (Html.BeginForm("Vote", "Vote", FormMethod.Post))
+                    {
+                        <input type="hidden" name="musicItemId" value="@item.MusicItemId" />
+                        <button type="submit" class="btn btn-success">Vote</button>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>

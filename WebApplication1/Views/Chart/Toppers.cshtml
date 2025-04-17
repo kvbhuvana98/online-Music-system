@@ -1,0 +1,24 @@
+﻿@model IEnumerable<WebApplication1.Models.ChartTopperViewModel>
+
+@{
+    ViewBag.Title = "Chart Toppers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4">🎵 Chart Toppers</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="@item.MusicItem.ImagePath" class="card-img-top" alt="@item.MusicItem.Title" style="height:200px; object-fit:cover;" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.MusicItem.Title</h5>
+                    <p class="card-text">Artist: @item.MusicItem.Artist</p>
+                    <p class="card-text"><strong>Votes:</strong> @item.VoteCount</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,24 @@
+﻿@*@model WebApplication1.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Password)
+        @Html.PasswordFor(m => m.Password)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.ConfirmPassword)
+        @Html.PasswordFor(m => m.ConfirmPassword)
+    </div>
+    <button type="submit">Register</button>
+}*@

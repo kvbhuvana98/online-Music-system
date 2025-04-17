@@ -1,0 +1,39 @@
+﻿@model List<WebApplication1.Models.CartItem>
+
+@{
+    ViewBag.Title = "Place Order";
+}
+
+<h2>Confirm Your Order</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Title</th>
+            <th>Artist</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@Url.Content(item.MusicItem.ImagePath ?? "~/Images/default.png")" style="width: 80px;" />
+                </td>
+                <td>@item.MusicItem.Title</td>
+                <td>@item.MusicItem.Artist</td>
+                <td>₹@item.MusicItem.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-right">
+    <form method="post" action="@Url.Action("ConfirmOrder", "Cart")">
+        <input type="submit" value="Confirm Purchase" class="btn btn-primary btn-lg" />
+    </form>
+</div>
+
+

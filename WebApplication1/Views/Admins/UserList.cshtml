@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WebApplication1.Models.User>
+
+@{
+    ViewBag.Title = "Manage Users";
+}
+
+<h2>Manage Users</h2>
+
+<table class="table">
+    <tr>
+        <th>Username</th>
+        @*<th>Email</th>*@
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Username</td>
+            @*<td>@user.Email</td>*@
+            <td>
+                @Html.ActionLink("Delete", "DeleteUser", new { id = user.UserId })
+                @*| @Html.ActionLink("Details", "Details", new { id = user.UserId })*@
+            </td>
+        </tr>
+    }
+</table>

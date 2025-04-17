@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebApplication1.Models.Feedback>
+
+@{
+    ViewBag.Title = "All Feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mb-4">All Feedback</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Message</th>
+            <th>Submitted At</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var feedback in Model)
+        {
+            <tr>
+                <td>@feedback.Username</td>
+                <td>@feedback.Message</td>
+                <td>@feedback.SubmittedAt.ToString("g")</td>
+            </tr>
+        }
+    </tbody>
+</table>

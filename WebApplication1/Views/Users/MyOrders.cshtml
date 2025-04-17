@@ -1,0 +1,84 @@
+﻿
+
+
+@model List<WebApplication1.Models.Order>
+
+@{
+    ViewBag.Title = "My Orders";
+}
+
+<h2 class="mb-4">My Orders</h2>
+
+<!-- Show messages -->
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">You have not placed any orders yet.</div>
+}
+else
+{
+    <table class="table table-striped table-hover shadow-sm">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Order Date</th>
+                <th scope="col">Items</th>
+                <th scope="col">Delivery Status</th>
+                <th scope="col">Actions</th> <!-- New column for cancel button -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderDate.ToString("dd-MM-yyyy")</td>
+                    <td>
+                        <ul class="list-unstyled mb-0">
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li class="mb-1">
+                                    <strong>@item.MusicItem.Title</strong>
+                                    <span class="text-muted">(x@item.Quantity)</span>
+                                </li>
+                            }
+                        </ul>
+                    </td>
+                    <td>
+                        <span class="badge
+                            @(order.DeliveryStatus == "Delivered" ? "bg-success" :
+                              order.DeliveryStatus == "Shipped" ? "bg-primary" :
+                              order.DeliveryStatus == "Processing" ? "bg-warning text-dark" :
+                              order.DeliveryStatus == "Canceled" ? "bg-danger" : "bg-secondary")">
+                            @order.DeliveryStatus
+                        </span>
+                    </td>
+                    <td>
+                        @if (order.DeliveryStatus != "Delivered" && order.DeliveryStatus != "Canceled")
+                        {
+                            <form action="@Url.Action("CancelOrder", "Users", new { id = order.OrderId })" method="post" style="display:inline;">
+                                <button type="submit" class="btn btn-sm btn-danger"
+                                        onclick="return confirm('Are you sure you want to cancel this order?');">
+                                    Cancel
+                                </button>
+                            </form>
+                        }
+                        else
+                        {
+                            <span class="text-muted">No actions</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

@@ -1,0 +1,88 @@
+﻿@*@model List<WebApplication1.Models.Order>
+
+    <h2>User Orders</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>User</th>
+                <th>Order Date</th>
+                <th>Items</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.User.Username</td>
+                    <td>@order.OrderDate.ToShortDateString()</td>
+                    <td>
+                        <ul>
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li>@item.MusicItem.Title (x@item.Quantity)</li>
+                            }
+                        </ul>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>*@
+
+
+@model List<WebApplication1.Models.Order>
+
+<h2>User Orders</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Order Date</th>
+            <th>Items</th>
+            <th>Delivery Status</th> <!-- New Column for Delivery Status -->
+            <th>Actions</th> <!-- New Column for Action Buttons -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.User.Username</td>
+                <td>@order.OrderDate.ToShortDateString()</td>
+                <td>
+                    <ul>
+                        @foreach (var item in order.OrderItems)
+                        {
+                            <li>@item.MusicItem.Title (x@item.Quantity)</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <span class="badge
+                        @(order.DeliveryStatus == "Delivered" ? "bg-success" :
+                        order.DeliveryStatus == "Shipped" ? "bg-primary" :
+                        order.DeliveryStatus == "Processing" ? "bg-warning text-dark" : "bg-secondary")">
+                        @order.DeliveryStatus
+                    </span>
+                </td>
+                <td>
+                    @if (order.DeliveryStatus != "Delivered" && order.DeliveryStatus != "Canceled")
+                    {
+                        @Html.ActionLink("Mark as Delivered", "ChangeDeliveryStatus", new { orderId = order.OrderId }, new { @class = "btn btn-success", onclick = "return confirm('Mark this order as Delivered?');" })
+                    }
+                    else if (order.DeliveryStatus == "Canceled")
+                    {
+                        <span class="text-danger">Canceled</span>
+                    }
+                    else
+                    {
+                        <span class="text-muted">Already Delivered</span>
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

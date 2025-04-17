@@ -1,0 +1,126 @@
+﻿@*@model WebApplication1.Models.ViewMusic
+    @{
+        ViewBag.Title = "Add Music to Category";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Add New Music</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Title)
+            @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Artist)
+            @Html.TextBoxFor(m => m.Artist, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.MusicUrl)
+            @Html.TextBoxFor(m => m.MusicUrl, new { @class = "form-control", placeholder = "~/Content/Music/filename.mp3" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.MusicCategoryId)
+            @Html.DropDownList("MusicCategoryId", null, "Select Category", new { @class = "form-control" })
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Music</button>
+    }*@
+
+@model WebApplication1.Models.ViewMusic
+
+@{
+    ViewBag.Title = "Add Music to Category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Custom Styling -->
+<style>
+    body {
+        background-image: url('/Content/Images/musicbg2.jpg'); /* Replace with your image path */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-container {
+        max-width: 500px;
+        margin: 100px auto;
+        background: rgba(255, 255, 255, 0.5);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-weight: 600;
+    }
+
+    .form-control {
+        height: 40px;
+        font-size: 1rem;
+        padding: 10px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        font-size: 1.1rem;
+        border-radius: 5px;
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+</style>
+
+<div class="form-container">
+    <h2>Add New Music</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Title)
+            @Html.TextBoxFor(m => m.Title, new { @class = "form-control", placeholder = "Song Title" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Artist)
+            @Html.TextBoxFor(m => m.Artist, new { @class = "form-control", placeholder = "Artist Name" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.MusicUrl)
+            @Html.TextBoxFor(m => m.MusicUrl, new { @class = "form-control", placeholder = "~/Content/Music/filename.mp3" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.MusicCategoryId)
+            @Html.DropDownList("MusicCategoryId", null, "Select Category", new { @class = "form-control" })
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Music</button>
+    }
+</div>
+

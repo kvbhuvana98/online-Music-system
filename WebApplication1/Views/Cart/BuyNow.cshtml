@@ -1,0 +1,74 @@
+﻿@*@model WebApplication1.Models.CartItem
+
+    @{
+        ViewBag.Title = "Buy Now";
+    }
+
+    <h2>Confirm Purchase</h2>
+
+    <table class="table">
+        <tr>
+            <th>Image</th>
+            <td><img src="@Url.Content(Model.MusicItem.ImagePath)" width="80" /></td>
+        </tr>
+        <tr>
+            <th>Title</th>
+            <td>@Model.MusicItem.Title</td>
+        </tr>
+        <tr>
+            <th>Artist</th>
+            <td>@Model.MusicItem.Artist</td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td>₹@Model.MusicItem.Price</td>
+        </tr>
+    </table>
+
+    <form method="post" action="@Url.Action("ConfirmBuyNow", "Cart")">
+        <input type="hidden" name="cartItemId" value="@Model.CartItemId" />
+        <button type="submit" class="btn btn-primary">Confirm Buy</button>
+    </form>*@
+
+
+@model WebApplication1.Models.CartItem
+
+@{
+    ViewBag.Title = "Buy Now";
+}
+
+<h2>Confirm Purchase</h2>
+
+<table class="table">
+    <tr>
+        <th>Image</th>
+        <td><img src="@Url.Content(Model.MusicItem.ImagePath)" width="80" /></td>
+    </tr>
+    <tr>
+        <th>Title</th>
+        <td>@Model.MusicItem.Title</td>
+    </tr>
+    <tr>
+        <th>Artist</th>
+        <td>@Model.MusicItem.Artist</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>₹@Model.MusicItem.Price</td>
+    </tr>
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.Quantity</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td>₹@(Model.MusicItem.Price * Model.Quantity)</td>
+    </tr>
+</table>
+
+<form method="post" action="@Url.Action("ConfirmBuyNow", "Cart")">
+    <input type="hidden" name="cartItemId" value="@Model.CartItemId" />
+    <button type="submit" class="btn btn-primary">Confirm Buy</button>
+</form>
+
+

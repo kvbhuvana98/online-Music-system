@@ -1,0 +1,87 @@
+﻿@*@model IEnumerable<WebApplication1.Models.MusicItem>
+
+    @{
+        ViewBag.Title = "Music Items";
+    }
+
+    <h2 class="mb-4">Music Items</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success mb-3" })
+    </p>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 shadow-sm">
+                    @{
+                        var imagePath = string.IsNullOrEmpty(item.ImagePath)
+                            ? Url.Content("~/Images/default.png")
+                            : Url.Content(item.ImagePath);
+                    }
+                    <img src="@imagePath" class="card-img-top" style="height: 200px; object-fit: cover;" alt="Cover Image" />
+
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">
+                            <strong>Category:</strong> @item.Category <br />
+                            <strong>Artist:</strong> @item.Artist <br />
+                            <strong>Release:</strong> @item.ReleaseDate.ToShortDateString() <br />
+                            <strong>Price:</strong> ₹@item.Price
+                        </p>
+                        <div class="mt-auto">
+                            <a href="@Url.Action("Details", "Store", new { id = item.MusicItemId })" class="btn btn-info btn-sm">Details</a>
+                            <a href="@Url.Action("Edit", "Store", new { id = item.MusicItemId })" class="btn btn-warning btn-sm">Edit</a>
+                            <a href="@Url.Action("Delete", "Store", new { id = item.MusicItemId })" class="btn btn-danger btn-sm">Delete</a>
+                            <a href="@Url.Action("AddToCart", "Cart", new { id = item.MusicItemId })" class="btn btn-primary btn-sm mt-1 w-100">Add to Cart</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>*@
+
+@model IEnumerable<WebApplication1.Models.MusicItem>
+
+@{
+    ViewBag.Title = "Music Items";
+}
+
+<h2 class="mb-4">Music Items</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success mb-3" })
+</p>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card h-100 shadow-sm">
+                @{
+                    var imagePath = string.IsNullOrEmpty(item.ImagePath)
+                        ? Url.Content("~/Images/default.png")
+                        : Url.Content(item.ImagePath);
+                }
+                <img src="@imagePath" class="card-img-top" style="height: 200px; object-fit: cover;" alt="Cover Image" />
+
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text">
+                        <strong>Category:</strong> @item.Category <br />
+                        <strong>Artist:</strong> @item.Artist <br />
+                        <strong>Release:</strong> @item.ReleaseDate.ToShortDateString() <br />
+                        <strong>Price:</strong> ₹@item.Price
+                    </p>
+                    <div class="mt-auto">
+                        <a href="@Url.Action("Details", "Store", new { id = item.MusicItemId })" class="btn btn-info btn-sm">Details</a>
+                        <a href="@Url.Action("Edit", "Store", new { id = item.MusicItemId })" class="btn btn-warning btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete", "Store", new { id = item.MusicItemId })" class="btn btn-danger btn-sm">Delete</a>
+                        @*<a href="@Url.Action("AddToCart", "Cart", new { id = item.MusicItemId })" class="btn btn-primary btn-sm mt-1 w-100">Add to Cart</a>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

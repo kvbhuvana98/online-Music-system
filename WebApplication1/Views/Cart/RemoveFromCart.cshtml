@@ -1,0 +1,7 @@
+﻿@model WebApplication1.Models.CartItem
+
+<h2>Item Removed</h2>
+<p>@Model.MusicItem.Title has been removed from your cart.</p>
+
+@Html.ActionLink("Back to Cart", "Index", "Cart", null, new { @class = "btn btn-primary" })
+

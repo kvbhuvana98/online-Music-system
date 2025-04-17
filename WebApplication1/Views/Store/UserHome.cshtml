@@ -1,0 +1,91 @@
+﻿
+
+
+@model IEnumerable<WebApplication1.Models.MusicItem>
+
+@{
+    ViewBag.Title = "Music Items";
+}
+
+<h2 class="mb-4 text-center">🎶 Explore Music</h2>
+
+<!-- 🔍 Search Bar -->
+<form method="get" action="@Url.Action("UserHome", "Store")" class="d-flex justify-content-center mb-4">
+    <div class="input-group" style="max-width: 500px;">
+        <input type="text" name="searchString" class="form-control" placeholder="Search by title or artist..." value="@Request.QueryString["searchString"]" />
+        <button type="submit" class="btn btn-outline-primary">Search</button>
+    </div>
+</form>
+
+<!-- Custom Hover CSS -->
+<style>
+    .music-card {
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+    .music-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .music-card .info-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.75);
+        color: #fff;
+        padding: 15px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        height: 100%;
+    }
+
+    .music-card:hover .info-overlay {
+        opacity: 1;
+    }
+
+    .info-overlay p {
+        font-size: 0.85rem;
+        margin-bottom: 8px;
+    }
+</style>
+
+<!-- 🎵 Music Grid -->
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card music-card h-100 shadow-sm border-0">
+                @{
+                    var imagePath = string.IsNullOrEmpty(item.ImagePath)
+                        ? Url.Content("~/Images/default.png")
+                        : Url.Content(item.ImagePath);
+                }
+
+                <img src="@imagePath" class="card-img-top rounded-top" style="height: 250px; object-fit: cover;" alt="Cover Image" />
+
+                <!-- Title always visible -->
+                <div class="card-body text-center bg-white">
+                    <h5 class="card-title fw-bold text-dark">@item.Title</h5>
+                </div>
+
+                <!-- Details shown on hover -->
+                <div class="info-overlay d-flex flex-column justify-content-between">
+                    <div>
+                        <h5 class="text-center">@item.Title</h5>
+                        <p><strong>Category:</strong> @item.Category</p>
+                        <p><strong>Singer:</strong> @item.Artist</p>
+                        <p><strong>Release:</strong> @item.ReleaseDate.ToShortDateString()</p>
+                        <p><strong>Price:</strong> ₹@item.Price</p>
+                    </div>
+                    <a href="@Url.Action("AddToCart", "Cart", new { id = item.MusicItemId })"
+                       class="btn btn-light btn-sm w-100">Add to Cart 🛒</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

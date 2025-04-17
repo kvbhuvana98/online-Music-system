@@ -1,0 +1,24 @@
+﻿@model WebApplication1.Models.User
+
+@{
+    ViewBag.Title = "Delete User";
+}
+
+<h2>Delete User</h2>
+
+<h4>Are you sure you want to delete the user @Model.Username?</h4>
+
+<div>
+    <h5>User Details:</h5>
+    <p><strong>Username:</strong> @Model.Username</p>
+    @*<p><strong>Email:</strong> @Model.Email</p>*@
+    <!-- Add any other user details you want to show -->
+</div>
+
+@using (Html.BeginForm("DeleteUser", "Admins", new { id = Model.UserId }, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a href="@Url.Action("UserList", "Admins")" class="btn btn-secondary">Cancel</a>
+}

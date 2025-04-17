@@ -1,0 +1,35 @@
+﻿@model IEnumerable<WebApplication1.Models.MusicItem>
+
+@{
+    ViewBag.Title = "Browse Music";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-4 text-center text-primary">🎵 Browse Music</h2>
+<hr />
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
+                <div class="card shadow-lg border-0 rounded-4 w-100 hover-shadow">
+                    <img src="@item.ImagePath" class="card-img-top rounded-top-4" alt="@item.Title" style="height:250px; object-fit:cover;" />
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title text-dark">@item.Title</h5>
+                        <p class="card-text text-muted mb-1">🎤 <strong>Singers</strong> @item.Artist</p>
+                        <span class="badge badge-success align-self-start mt-auto">₹@item.Price</span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .hover-shadow:hover {
+        transform: scale(1.02);
+        transition: all 0.3s ease-in-out;
+    }
+</style>
+

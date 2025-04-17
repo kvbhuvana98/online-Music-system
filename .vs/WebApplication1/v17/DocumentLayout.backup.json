@@ -1,0 +1,1516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnet(demos)\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\views\\musicitems\\musicitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\musicitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\views\\musicitems\\musicitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\musicitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\views\\musicitems\\musicitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\musicitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\musicitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\musicitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\viewmusic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmusic\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\feedback\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\feedback\\submit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\content\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\chartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504151003087_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504151003087_addorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\views\\admins\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|c:\\dotnet(demos)\\webapplication1\\webapplication1\\views\\admins\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\viewuserorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\viewuserorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\chart\\toppers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\chart\\toppers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\users\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504161145123_adddefaultdeliverystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504161145123_adddefaultdeliverystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504161106044_adddeliverystatustoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504161106044_adddeliverystatustoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\musicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\musicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\musicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\musicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\buynow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\cart\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\scripts\\jquery.validate-vsdoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scripts\\jquery.validate-vsdoc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\store\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\userhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\store\\readonlybrowse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\readonlybrowse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\viewmusic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmusic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\content\\images\\music picture 1.webp||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\content\\images\\music picture 1.webp||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\musicitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\musicitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\feedback\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\feedback\\viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504150941347_addfeedbacktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504150941347_addfeedbacktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\vote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\vote\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\viewmusicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\viewmusicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\controllers\\viewmusicadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\viewmusicadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\viewmusicadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmusicadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504150553147_addmusiccategoryidtoviewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504150553147_addmusiccategoryidtoviewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\viewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\musiccategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\musiccategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\charttopperviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\charttopperviewmodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504150527569_addviewmusicsandcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504150527569_addviewmusicsandcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504150521241_addviewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504150521241_addviewmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504150444241_updatemusicstoreschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504150444241_updatemusicstoreschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140950098_adduseridtocartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140950098_adduseridtocartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140919518_syncuserchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140919518_syncuserchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140841577_addimagepathtomusicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140841577_addimagepathtomusicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\musicitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\musicitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\musicitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admins\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140724583_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140724583_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140631000_addcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140631000_addcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\migrations\\202504140509210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\202504140509210_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|C:\\dotnet(demos)\\WebApplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4691AB1F-53DD-4A5A-8AE2-0AE6CA40A4E8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\musicitems\\Delete.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\musicitems\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T07:21:09.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\musicitems\\Edit.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\musicitems\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T07:23:38.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\musicitems\\Create.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\musicitems\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\musicitems\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T07:21:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T09:11:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\Create.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:01:29.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:09:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAF4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T11:56:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesReport.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\SalesReport.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\SalesReport.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\SalesReport.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\SalesReport.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T10:04:19.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusic\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewMusic\\Create.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusic\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewMusic\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T06:06:08.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\Register.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T09:12:09.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "WebApplication1\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "WebApplication1\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T06:55:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChartController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ChartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ChartController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ChartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ChartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:39:44.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Login.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T05:29:01.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Submit.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Feedback\\Submit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Feedback\\Submit.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Feedback\\Submit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Feedback\\Submit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T09:44:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Order.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Order.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:59:21.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAQwOEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:35:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:59:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:18:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202504151003087_AddOrdersTable.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504151003087_AddOrdersTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504151003087_AddOrdersTable.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504151003087_AddOrdersTable.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504151003087_AddOrdersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:03:12.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\UserList.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\UserList.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\UserList.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T05:46:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\DeleteUser.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\DeleteUser.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\DeleteUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T05:37:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewUserOrders.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\ViewUserOrders.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\ViewUserOrders.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\ViewUserOrders.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\ViewUserOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T11:01:21.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAF0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T05:45:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:38:30.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Toppers.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Chart\\Toppers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Chart\\Toppers.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Chart\\Toppers.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Chart\\Toppers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T04:41:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:10:23.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\MyOrders.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Users\\MyOrders.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\MyOrders.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T11:21:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202504161145123_AddDefaultDeliveryStatus.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504161145123_AddDefaultDeliveryStatus.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504161145123_AddDefaultDeliveryStatus.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504161145123_AddDefaultDeliveryStatus.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504161145123_AddDefaultDeliveryStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:45:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Admin.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Admin.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:50:06.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202504161106044_AddDeliveryStatusToOrder.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504161106044_AddDeliveryStatusToOrder.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504161106044_AddDeliveryStatusToOrder.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504161106044_AddDeliveryStatusToOrder.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504161106044_AddDeliveryStatusToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:06:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BuyNow.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\BuyNow.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\BuyNow.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\BuyNow.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\BuyNow.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T10:31:05.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MusicStoreContext.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicStoreContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MusicStoreContext.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicStoreContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MusicStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:51:51.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddToCart.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\AddToCart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\AddToCart.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\AddToCart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\AddToCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:38:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwGkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:36:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MusicItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MusicItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MusicItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:51:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SalesReportViewModel.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\SalesReportViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SalesReportViewModel.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\SalesReportViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SalesReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:55:07.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T10:10:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\PlaceOrder.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\PlaceOrder.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\PlaceOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T09:53:09.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RemoveFromCart.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\RemoveFromCart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\RemoveFromCart.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Cart\\RemoveFromCart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\RemoveFromCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:41:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "jquery.validate-vsdoc.js",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Scripts\\jquery.validate-vsdoc.js",
+              "RelativeDocumentMoniker": "WebApplication1\\Scripts\\jquery.validate-vsdoc.js",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Scripts\\jquery.validate-vsdoc.js",
+              "RelativeToolTip": "WebApplication1\\Scripts\\jquery.validate-vsdoc.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-16T08:45:55.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserHome.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\UserHome.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\UserHome.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\UserHome.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Store\\UserHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T09:29:44.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReadOnlyBrowse.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\ReadOnlyBrowse.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\ReadOnlyBrowse.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\ReadOnlyBrowse.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Store\\ReadOnlyBrowse.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T12:08:36.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CartItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:17:29.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusic\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewMusic\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusic\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewMusic\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T06:04:51.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "music picture 1.webp",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Content\\Images\\music picture 1.webp",
+              "RelativeDocumentMoniker": "WebApplication1\\Content\\Images\\music picture 1.webp",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Content\\Images\\music picture 1.webp",
+              "RelativeToolTip": "WebApplication1\\Content\\Images\\music picture 1.webp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T04:29:44.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:59:08.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:46:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MusicItemsController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\MusicItemsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MusicItemsController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\MusicItemsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MusicItemsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA5wB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:20:25.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ViewAll.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Feedback\\ViewAll.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Feedback\\ViewAll.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Feedback\\ViewAll.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Feedback\\ViewAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T09:47:29.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:40:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Feedback.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Feedback.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:39:39.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "202504150941347_AddFeedbackTable.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150941347_AddFeedbackTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504150941347_AddFeedbackTable.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150941347_AddFeedbackTable.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504150941347_AddFeedbackTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:41:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Vote\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Vote\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Vote\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Vote\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T04:37:11.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:28:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:01:54.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VoteController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\VoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:35:40.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ViewMusicsController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ViewMusicsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ViewMusicsController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ViewMusicsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ViewMusicsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:22:26.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ViewMusicAdminController.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ViewMusicAdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ViewMusicAdminController.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Controllers\\ViewMusicAdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ViewMusicAdminController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:28:40.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusicAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewMusicAdmin\\Delete.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\ViewMusicAdmin\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewMusicAdmin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T06:42:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "202504150553147_AddMusicCategoryIdToViewMusic.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150553147_AddMusicCategoryIdToViewMusic.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504150553147_AddMusicCategoryIdToViewMusic.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150553147_AddMusicCategoryIdToViewMusic.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504150553147_AddMusicCategoryIdToViewMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:53:20.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ViewMusic.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ViewMusic.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewMusic.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ViewMusic.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:20:23.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MusicCategory.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MusicCategory.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\MusicCategory.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\MusicCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:19:41.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ChartTopperViewModel.cs.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ChartTopperViewModel.cs.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ChartTopperViewModel.cs.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ChartTopperViewModel.cs.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ChartTopperViewModel.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:59:53.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "202504150527569_AddViewMusicsAndCategories.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150527569_AddViewMusicsAndCategories.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504150527569_AddViewMusicsAndCategories.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150527569_AddViewMusicsAndCategories.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504150527569_AddViewMusicsAndCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:28:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "202504150521241_AddViewMusic.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150521241_AddViewMusic.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504150521241_AddViewMusic.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150521241_AddViewMusic.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504150521241_AddViewMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:21:29.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "202504150444241_UpdateMusicStoreSchema.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150444241_UpdateMusicStoreSchema.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504150444241_UpdateMusicStoreSchema.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504150444241_UpdateMusicStoreSchema.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504150444241_UpdateMusicStoreSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:44:29.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Vote.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Vote.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\Vote.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Vote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:34:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:29:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:30:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:19:06.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "202504140950098_AddUserIdToCartItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140950098_AddUserIdToCartItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140950098_AddUserIdToCartItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140950098_AddUserIdToCartItem.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140950098_AddUserIdToCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:50:12.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\Details.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Store\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:04:02.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "202504140919518_SyncUserChanges.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140919518_SyncUserChanges.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140919518_SyncUserChanges.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140919518_SyncUserChanges.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140919518_SyncUserChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:19:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:09:46.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:37:33.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebApplication1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:09:16.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "202504140841577_AddImagePathToMusicItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140841577_AddImagePathToMusicItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140841577_AddImagePathToMusicItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140841577_AddImagePathToMusicItem.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140841577_AddImagePathToMusicItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:42:01.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\Details.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:39:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Create.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T05:20:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:07:44.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\MusicItems\\Edit.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\MusicItems\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\MusicItems\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T08:05:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Edit.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:57:27.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Details.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:57:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admins\\Delete.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\Admins\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admins\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:57:25.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:13:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T04:59:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:33:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "202504140724583_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140724583_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140724583_AddIdentityTables.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140724583_AddIdentityTables.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140724583_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:25:02.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "202504140631000_AddCartItem.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140631000_AddCartItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140631000_AddCartItem.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140631000_AddCartItem.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140631000_AddCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:31:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "202504140509210_InitialCreate.cs",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140509210_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\202504140509210_InitialCreate.cs",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Migrations\\202504140509210_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\202504140509210_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:10:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\dotnet(demos)\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T05:43:17.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

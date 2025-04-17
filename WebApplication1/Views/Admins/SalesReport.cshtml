@@ -1,0 +1,83 @@
+﻿
+
+@model WebApplication1.Models.SalesReportViewModel
+
+@{
+    ViewBag.Title = "Sales Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Custom Styling -->
+<style>
+    body {
+        background-image: url('/Content/Images/musicbg2.jpg'); 
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .report-container {
+        max-width: 600px;
+        margin: 80px auto;
+        background: rgba(255, 255, 255, 0.95);
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 25px;
+        font-weight: bold;
+    }
+
+    .table {
+        margin-bottom: 10;
+        background-color: #ffffff;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+        .table thead {
+            background-color: #343a40;
+            color: white;
+        }
+
+        .table td, .table th {
+            vertical-align: middle;
+            text-align: center;
+        }
+</style>
+
+<div class="report-container">
+    <h2>📊 Sales Report</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Period</th>
+                @*<th>Total Sales</th>*@
+                <th>Orders Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Today</td>
+                @*<td>₹@Model.TodayTotal</td>*@
+                <td>@Model.TodayOrders</td>
+            </tr>
+            <tr>
+                <td>Last 7 Days</td>
+                @*<td>₹@Model.Last7DaysTotal</td>*@
+                <td>@Model.Last7DaysOrders</td>
+            </tr>
+            <tr>
+                <td>Last 30 Days</td>
+                @*<td>₹@Model.Last30DaysTotal</td>*@
+                <td>@Model.Last30DaysOrders</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

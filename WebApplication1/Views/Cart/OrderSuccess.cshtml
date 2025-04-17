@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Order Success";
+}
+
+<h2>Order Placed</h2>
+
+<div class="alert alert-success">
+    @TempData["OrderSuccess"]
+</div>
+
+<a href="@Url.Action("UserHome", "Store")" class="btn btn-primary">Continue Shopping</a>

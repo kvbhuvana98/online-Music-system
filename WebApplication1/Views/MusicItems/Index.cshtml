@@ -1,0 +1,166 @@
+﻿@*@model IEnumerable<WebApplication1.Models.MusicItem>
+
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+
+    <table class="table">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Category)</th>
+            <th>@Html.DisplayNameFor(model => model.Artist)</th>
+            <th>@Html.DisplayNameFor(model => model.ReleaseDate)</th>
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>Image</th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Category)</td>
+                <td>@Html.DisplayFor(modelItem => item.Artist)</td>
+                <td>@Html.DisplayFor(modelItem => item.ReleaseDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImagePath))
+                    {
+                        <img src="@Url.Content(item.ImagePath)" alt="CD/DVD Image" width="80" height="80" />
+                    }
+                    else
+                    {
+                        <span>No image</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.MusicItemId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.MusicItemId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MusicItemId })
+                </td>
+            </tr>
+        }
+    </table>*@
+
+@model IEnumerable<WebApplication1.Models.MusicItem>
+
+@{
+    ViewBag.Title = "Music Items";
+}
+
+<!-- Add Custom CSS for Styling -->
+<style>
+    .table {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        margin-top: 30px;
+    }
+
+        .table th, .table td {
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .table th {
+            background-color: #007bf;
+            color: white;
+        }
+
+        .table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .table tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .table img {
+            border-radius: 5px;
+        }
+
+        .table td a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 5px;
+        }
+
+            .table td a:hover {
+                text-decoration: underline;
+            }
+
+    .btn-create {
+        margin: 20px 0;
+        background-color: #28a745;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+        .btn-create:hover {
+            background-color: #218838;
+        }
+
+    h2 {
+        font-size: 2rem;
+        color: #333;
+        margin-bottom: 20px;
+    }
+</style>
+
+<h2>Music Items</h2>
+
+<!-- Button to Create New Music Item -->
+<p>
+    <a href="@Url.Action("Create")" class="btn-create">Create New</a>
+</p>
+
+<!-- Music Items Table -->
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Category)</th>
+            <th>@Html.DisplayNameFor(model => model.Artist)</th>
+            <th>@Html.DisplayNameFor(model => model.ReleaseDate)</th>
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>Image</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Category)</td>
+                <td>@Html.DisplayFor(modelItem => item.Artist)</td>
+                <td>@Html.DisplayFor(modelItem => item.ReleaseDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.ImagePath))
+                    {
+                        <img src="@Url.Content(item.ImagePath)" alt="CD/DVD Image" width="80" height="80" />
+                    }
+                    else
+                    {
+                        <span>No image</span>
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = item.MusicItemId })" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="@Url.Action("Details", new { id = item.MusicItemId })" class="btn btn-info btn-sm">Details</a>
+                    <a href="@Url.Action("Delete", new { id = item.MusicItemId })" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
